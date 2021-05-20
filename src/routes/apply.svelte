@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Open Sats — Submit your project</title>
+	<title>Open Sats | Submit your project</title>
 </svelte:head>
 
 <iframe

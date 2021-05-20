@@ -18,7 +18,7 @@
 </script>
 
 <svelte:head>
-	<title>Open Sats — Bitcoin White Paper</title>
+	<title>Open Sats | Bitcoin White Paper</title>
 </svelte:head>
 
 <section class="hero">

@@ -6,11 +6,18 @@
   "private": true,
   "license": "MIT",
   "version": "0.1.1",
-  "author": {
-    "name": "Alex Castlenine",
-    "email": "alex@duxreserve.com",
-    "url": "https://twitter.com/castlenine_"
-  },
+  "contributors": [
+    {
+      "name": "Alex Castlenine",
+      "email": "alex@duxreserve.com",
+      "url": "https://twitter.com/castlenine_"
+    },
+    {
+      "name": "Ben Price",
+      "email": "ben@opensats.org",
+      "url": "https://twitter.com/abitcoinperson"
+    }
+  ],
   "scripts": {
     "dev": "sapper dev",
     "start": "node __sapper__/build",

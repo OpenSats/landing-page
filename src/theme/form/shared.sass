@@ -11,7 +11,7 @@ $input-hover-color: $text-strong !default
 $input-hover-border-color: $border-hover !default
 
 $input-focus-color: $text-strong !default
-$input-focus-border-color: $primary !default
+$input-focus-border-color: $black !default
 $input-focus-box-shadow-size: 0 0 0 0.125em !default
 $input-focus-box-shadow-color: bulmaRgba($link, 0.25) !default
 
@@ -25,15 +25,12 @@ $input-arrow: $link !default
 $input-icon-color: $border !default
 $input-icon-active-color: $text !default
 
-$input-radius: 0 !default
+$input-radius: 1px !default
 
 =input
   @extend %control
   background-color: $input-background-color
-  border-top: none
-  border-right: none
-  border-bottom: 1px $input-border-color solid
-  border-left: none
+  border: 1px $input-border-color solid
   border-radius: $input-radius
   color: $input-color
   +placeholder
