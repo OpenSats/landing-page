@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Open Sats — Contact</title>
+	<title>Open Sats | Contact</title>
 </svelte:head>
 
 <iframe

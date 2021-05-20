@@ -35,7 +35,7 @@
 </script>
 
 <svelte:head>
-	<title>Open Sats — Non-profit aiming to support a sustainable ecosystem of contributors to free and open source software like Bitcoin Core</title>
+	<title>Open Sats | Non-profit aiming to support a sustainable ecosystem of contributors to free and open source software like Bitcoin Core</title>
 </svelte:head>
 
 <section class="hero is-medium custom-gradient">

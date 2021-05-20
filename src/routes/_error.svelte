@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Open Sats — Error {status}</title>
+	<title>Open Sats | Error {status}</title>
 </svelte:head>
 
 <div class="container mt-6">
