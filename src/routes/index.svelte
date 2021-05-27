@@ -57,6 +57,18 @@
 	</div>
 </section>
 
+<section class="hero is-small">
+	<div class="hero-body">
+		<div class="container">
+			<div class="columns is-centered">
+				<div class="column is-6-desktop is-8-tablet is-12-mobile">
+					<iframe src="https://opensats.substack.com/embed" width="100%" height="320" style="background:white;" frameborder="0" scrolling="no" />
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <section class="hero is-medium">
 	<div class="hero-body">
 		<div class="container">
