@@ -9,4 +9,4 @@ yarn run dev
 
 [MIT License](LICENSE)
 
-Copyright (c) 2020-2021 [Alex Castlenine](https://github.com/castlenine) & Open Sats
+Copyright (c) 2020-2021 Open Sats Initiative, Inc.
